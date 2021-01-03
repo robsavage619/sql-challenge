@@ -42,7 +42,7 @@ The purpose of this project was to use the 6 `CSVs` provided in the `data` folde
 
 1. Used [Quick Database Diagrams](http://www.quickdatabasediagrams.com) to create an ERD model to better understand the data on hand. 
 
-![ERD Model](ERD Image.png)
+![ERD Model](ERD_Image.png)
 
 2. Once the model was visualized, `SQL` was used to filter the data and run the assigned analyses:
 
