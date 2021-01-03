@@ -31,7 +31,7 @@ The purpose of this project was to use the 6 `CSVs` provided in the `data` folde
 
 1. SQL (Data Engineering/Analysis)
 
-2. [Quick Database Diagrams](http://www.quickdatabasediagrams.com)(Building ERD)
+2. [Quick Database Diagrams](http://www.quickdatabasediagrams.com) (Building ERD)
 
 3. Github (Publishing of Results)
 
